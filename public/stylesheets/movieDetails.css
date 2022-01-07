@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    margin: 50px;
+    gap: 2em;
+}
+
+.container img {
+    height: 23em;
+}
+
+.details {
+    display: flex;
+    flex-flow: column nowrap;
+}
